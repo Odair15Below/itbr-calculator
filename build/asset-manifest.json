@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/itbr-calculator/static/css/main.f53f126b.chunk.css",
-    "main.js": "/itbr-calculator/static/js/main.4406cca8.chunk.js",
-    "main.js.map": "/itbr-calculator/static/js/main.4406cca8.chunk.js.map",
-    "runtime-main.js": "/itbr-calculator/static/js/runtime-main.3302bb01.js",
-    "runtime-main.js.map": "/itbr-calculator/static/js/runtime-main.3302bb01.js.map",
-    "static/js/2.ee9a6793.chunk.js": "/itbr-calculator/static/js/2.ee9a6793.chunk.js",
-    "static/js/2.ee9a6793.chunk.js.map": "/itbr-calculator/static/js/2.ee9a6793.chunk.js.map",
+    "main.css": "/itbr-calculator/static/css/main.634baf07.chunk.css",
+    "main.js": "/itbr-calculator/static/js/main.0641dfe8.chunk.js",
+    "main.js.map": "/itbr-calculator/static/js/main.0641dfe8.chunk.js.map",
+    "runtime-main.js": "/itbr-calculator/static/js/runtime-main.14b02862.js",
+    "runtime-main.js.map": "/itbr-calculator/static/js/runtime-main.14b02862.js.map",
+    "static/js/2.dbbbf408.chunk.js": "/itbr-calculator/static/js/2.dbbbf408.chunk.js",
+    "static/js/2.dbbbf408.chunk.js.map": "/itbr-calculator/static/js/2.dbbbf408.chunk.js.map",
     "index.html": "/itbr-calculator/index.html",
-    "precache-manifest.d8544e76e4f8c1e1275324824bbdbefd.js": "/itbr-calculator/precache-manifest.d8544e76e4f8c1e1275324824bbdbefd.js",
+    "precache-manifest.035638ee357e1e0e59d7b6a448960487.js": "/itbr-calculator/precache-manifest.035638ee357e1e0e59d7b6a448960487.js",
     "service-worker.js": "/itbr-calculator/service-worker.js",
-    "static/css/main.f53f126b.chunk.css.map": "/itbr-calculator/static/css/main.f53f126b.chunk.css.map",
-    "static/js/2.ee9a6793.chunk.js.LICENSE": "/itbr-calculator/static/js/2.ee9a6793.chunk.js.LICENSE"
+    "static/css/main.634baf07.chunk.css.map": "/itbr-calculator/static/css/main.634baf07.chunk.css.map",
+    "static/js/2.dbbbf408.chunk.js.LICENSE": "/itbr-calculator/static/js/2.dbbbf408.chunk.js.LICENSE",
+    "static/media/itbrlogo.png": "/itbr-calculator/static/media/itbrlogo.5097caee.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.3302bb01.js",
-    "static/js/2.ee9a6793.chunk.js",
-    "static/css/main.f53f126b.chunk.css",
-    "static/js/main.4406cca8.chunk.js"
+    "static/js/runtime-main.14b02862.js",
+    "static/js/2.dbbbf408.chunk.js",
+    "static/css/main.634baf07.chunk.css",
+    "static/js/main.0641dfe8.chunk.js"
   ]
 }
